@@ -1,4 +1,5 @@
 ## Technical + Soft Skills
+## 26 Data Scientist 
 
 ```mermaid
 flowchart TD
